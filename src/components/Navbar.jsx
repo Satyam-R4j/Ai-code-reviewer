@@ -10,10 +10,10 @@ const Navbar = () => {
       >
         <div className="logo flex items-center gap-2">
           {" "}
-          <TrendingUpDown size={30} color="#10B981" />
-          <span className="text-2xl  text-white ">
-            <span className="text-2xl font-bold text-gray-400 ">Code</span>
-            <span className="text-2xl font-semibold  bg-green-700 rounded-lg text-black ">Clarify</span>
+          <TrendingUpDown size={25} color="#10B981" />
+          <span className="text-2xl font-['JetBrains_Mono']   text-white ">
+            <span className="text-2xl font-semibold   text-gray-300 ">Code</span>
+            <span className="text-2xl font-bold  bg-green-700  rounded-md text-gray-900 ">Clarify</span>
           </span>
         </div>
       </div>
