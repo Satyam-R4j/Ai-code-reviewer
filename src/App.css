@@ -10,3 +10,19 @@ body{
   background-color: rgb(66, 79, 66);
   color: #fff;
 }
+
+.btnNormal{
+  padding: 7px;
+  color: white;
+  background: rgb(6, 135, 6);
+  border-radius: 5px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  transition: all;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.btnNormal:hover{
+  background: rgb(17, 214, 17);
+}
