@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <>
       <div
-        className="nav flex justify-between items-center  h-[90px] bg-zinc-900 "
+        className="nav flex justify-around items-center  h-[90px] bg-zinc-900 "
         style={{ padding: "0px 150px" }}
       >
         <div className="logo flex items-center gap-2">
